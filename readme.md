@@ -51,7 +51,10 @@
 - [Golem](https://golemproject.slack.com/messages/C13QN3Z09/)
 
 ## AI
-- [Comma ai](https://comma.slack.com/messages/C02Q83V2B/)
+- [Comma AI](https://comma.slack.com/messages/C02Q83V2B/)
+
+## Data Science
+- [Kaggle noobs](https://kagglenoobs.slack.com/messages/C1559JBRV/)
 
 ## Apps
 - [MindNode](https://mindnodebeta.slack.com/messages/C0409B8RW/)
