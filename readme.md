@@ -1,10 +1,6 @@
 # Interesting Slack Groups [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
 *Please read the [contribution guidelines](contributing.md#readme) before contributing.*
 
-## Educational
-- [Learn anything](https://knowledge-map.slack.com/messages/C5BGJ5WJK/)
-- [Open data science](https://opendatascience.slack.com/messages/C0MNT7JLR/)
-
 ## Programming
 - [Gophers](https://gophers.slack.com/messages/C029RQSEE/)
 - [Functional programming](https://functionalprogramming.slack.com/messages/C0432GV99/)
@@ -50,7 +46,8 @@
 ## Blockchain
 - [Golem](https://golemproject.slack.com/messages/C13QN3Z09/)
 
-## AI
+## Machine Learning
+- [Open Data Science](https://opendatascience.slack.com/messages/C0MNT7JLR/)
 - [Comma AI](https://comma.slack.com/messages/C02Q83V2B/)
 
 ## Data Science
