@@ -76,6 +76,7 @@
 - [MIT proxy](https://mitmproxy.slack.com/messages/C060SGTJ6/)
 - [Homekitty](https://homekitty.slack.com/messages/C709ZEZ6H/)
 - [Dgraph](https://dgraph.slack.com/messages/C13LH03RR/)
+- [ThisHosting.Rocks Community](https://thishosting.rocks/community/)
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
