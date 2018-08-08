@@ -22,6 +22,7 @@
 - [APIs you won’t hate](https://apisyouwonthate.slack.com/messages/C0HGJS734/)
 - [21co](https://21co.slack.com/messages/C0E0NEGUT/)
 - [Javascript](https://javascriptru.slack.com/messages/C0K8H23UY/)
+- [Java](https://virtualjug.slack.com/)
 - [Cocoa heads NL](https://cocoaheadsnl.slack.com/messages/C030NUMV5/)
 - [Cocoa developers](https://cocoa-developers.slack.com/messages/C03LNLF9P/)
 - [Russian devs](https://russiandevs.slack.com/messages/C03JNTVLV/)
