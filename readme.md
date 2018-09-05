@@ -79,6 +79,9 @@
 - [Dgraph](https://dgraph.slack.com/messages/C13LH03RR/)
 - [ThisHosting.Rocks Community](https://thishosting.rocks/community/)
 
+## Related
+- [2000+ Confirmed Slack chat groups](https://standuply.com/slack-chat-groups)
+
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
 
