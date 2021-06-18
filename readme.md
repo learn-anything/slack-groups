@@ -97,6 +97,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [The Things Network](https://thethingsnetwork.slack.com/messages/C07P9CV71/)
 - [ThisHosting.Rocks Community](https://thishosting.rocks/community/)
 - [Travelers](https://travelers.slack.com/messages/C037Z4SSA/)
+- [SaaS Community](https://join.slack.com/t/saas-hgv7803/shared_invite/zt-qwvrywyr-8DmSpEzBiSWD2WQuB9r9pw) - Community for SaaS product builders, to discuss the challenges involved.
 
 ## Related
 
